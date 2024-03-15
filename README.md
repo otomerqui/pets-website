@@ -19,4 +19,4 @@ This project is a pet adoption website that allows users to view all adptable pe
 
 ## Deployment
 
-Visit project here: <a href="https://jammiing-pro.netlify.app/">Jamming App</a>
+Visit project here: <a href="https://pet-website-oto.netlify.app/">Pets Website</a>
